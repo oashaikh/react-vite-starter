@@ -1,0 +1,25 @@
+node_modules/
+dist/
+build/
+
+# Test artefacts
+coverage/
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Vite cache
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+
+.env
+.env.local
+.env.*.local
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
